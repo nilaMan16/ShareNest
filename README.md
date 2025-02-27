@@ -1,4 +1,4 @@
-#📦 RENTIFY APP
+📦#RENTIFY APP
 
 A Rental app designed to solve a common problem of needing something to use temporarily but not having it and designed using Figma 
 

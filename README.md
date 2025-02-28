@@ -1,6 +1,7 @@
 # RENTIFY APP
 
 A Rental app designed to solve a common problem of needing something to use temporarily but not having it and designed using Figma 
+(Link: https://www.figma.com/design/u3bGbjKjM0EeT3y7mgQ0Jf/Sharenest-prototype?node-id=0-1&p=f&t=5WJ6djxTpMOaFGO4-0)
 
 ## Highlights
 Easy to use UI
